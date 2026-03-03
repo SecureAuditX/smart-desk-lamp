@@ -291,9 +291,7 @@ This project is released under the MIT License.
 # 👤 Author
 
 ABDULKARIM UMAR
-Software Engineer
-Embedded Systems Developer
-Hardware Design | Firmware Engineering | Power Electronics | ARM Architecture
+Software Engineer | Embedded Systems Developer | Hardware Design | Firmware Engineering | Power Electronics | ARM Architecture
 
 ---
 
