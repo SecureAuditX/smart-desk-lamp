@@ -212,7 +212,7 @@ Firmware developed using STM32CubeIDE / Keil MDK.
 
 ---
 
-# 📂 Recommended Repository Structure
+# 📂 Repository Structure
 
 ```
 ├── Firmware/
