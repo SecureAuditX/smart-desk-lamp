@@ -263,7 +263,7 @@ Firmware developed using STM32CubeIDE / Keil MDK.
 * [x] System Architecture Defined
 * [x] Hardware Schematic Designed
 * [x] PCB Layout Completed
-* [x] Firmware Core Functional
+* [ ] Firmware Core Functional
 * [ ] Enclosure Optimization
 * [ ] Thermal Optimization
 * [ ] Power Consumption Optimization
