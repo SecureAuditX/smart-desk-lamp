@@ -64,7 +64,6 @@ The goal is to create a compact, efficient, and scalable smart lighting control 
 > PCB layout or schematic screenshots
 
 ![PCB Layout](pcb-layout.png)
-![Schematic](images/schematic.png)
 
 ---
 
